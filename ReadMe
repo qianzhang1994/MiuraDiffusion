@@ -1,2 +1,1 @@
-The codes for the article
-Diffusion behavior of local motion in Miura origami structures
+This repository contains the source code for simulating and analyzing the diffusion behavior of local folding-unfolding motions in Miura origami structures with rotational stiffness at the crease lines. The work is based on the paper Diffusion Behavior of Local Motion in Miura Origami Structures, which investigates the nonlinear mechanical characteristics and complex motion behaviors of Miura origami arrays with crease stiffness.
